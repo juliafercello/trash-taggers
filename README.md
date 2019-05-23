@@ -8,7 +8,7 @@ The home page shows the five upcoming events along with the ability to signup.  
 
 When a user chooses to create an event or join an event, they are prompted to login with Google.  From there, the user is able to complete their task and help keep our cities clean!
 
-This project utilizes MySQL, Node, Express, Handlebars, Bootstrap, Google Authentication, Google Maps, Passport JS, Moment and Sequelize. 
+This project utilizes MySQL, Node, Express, Handlebars, Bootstrap, Google Authentication, Google Maps, Passport JS, Moment and Sequelize.  
 
 View our project here: https://trashtaggers.herokuapp.com/
 
